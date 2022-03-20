@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Akira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=docxed&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
+- 👋 My name is **Akira Seesanyong**
+
+- 👋 My nicknameis **J**
+
+- 🌱 I'm a Junior student at **Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang**
+
+- 📫 How to reach me **akira.ajeyb@gmail.com**
+
 <p><img align="" src="https://github-readme-stats.vercel.app/api?username=docxed&show_icons=true&locale=en" alt="" /></p>
 
 <p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=docxed&" alt="" /></p>
