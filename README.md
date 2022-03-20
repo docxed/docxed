@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **akira.ajeyb@gmail.com**
 
+<hr />
+
 <p><img align="" src="https://github-readme-stats.vercel.app/api?username=docxed&show_icons=true&locale=en" alt="" /></p>
 
 <p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=docxed&" alt="" /></p>
