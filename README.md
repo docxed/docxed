@@ -3,7 +3,7 @@
 
 - 👋 My name is **Akira Seesanyong**
 
-- 👋 My nicknameis **J**
+- 👋 My nickname is **J**
 
 - 🌱 I'm a Junior student at **Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang**
 
