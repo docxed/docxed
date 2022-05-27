@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=docxed&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-- 👋 My name is **Akira Seesanyong**
+- 👋 My name is **Akira S.**
 
 - 👋 My nickname is **J**
 
